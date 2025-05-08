@@ -1,0 +1,2 @@
+# ninjaweb
+web project, journal
