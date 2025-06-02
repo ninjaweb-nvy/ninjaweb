@@ -1,4 +1,4 @@
 # ninjaweb
 web project, journal
 
-(> w <*)
+(i w i*)
